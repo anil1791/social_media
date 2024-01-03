@@ -1,0 +1,16 @@
+{
+  "name": "social_media",
+  "version": "1.0.0",
+  "description": "a social media backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "mern",
+    "mongodb"
+  ],
+  "author": "anilk17",
+  "license": "ISC"
+}
