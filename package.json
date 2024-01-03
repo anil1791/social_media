@@ -4,13 +4,16 @@
   "description": "a social media backend project using js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
     "mern",
     "mongodb"
   ],
+  "devDependencies": {
+    "nodemon":"^3.0.2"
+  },
   "author": "anilk17",
   "license": "ISC"
 }
