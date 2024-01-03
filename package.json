@@ -9,7 +9,8 @@
   "keywords": [
     "javascript",
     "mern",
-    "mongodb"
+    "mongodb",
+    "node"
   ],
   "devDependencies": {
     "nodemon":"^3.0.2"
